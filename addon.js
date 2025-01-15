@@ -11,6 +11,11 @@ const CATALOGS = [
     name: "Currently watching",
   },
   {
+    id: "CUSTOM",
+    type: "anime",
+    name: "Watch 7 Shows At the Same Time Challenge",
+  },
+  {
     id: "REPEATING",
     type: "anime",
     name: "Repeating",
